@@ -159,4 +159,9 @@ margin-top:-5px !important;
   padding-bottom:20px;
 }
 
-
+.cow1{
+  position:absolute;
+  left:50%;
+  transform:translateX(-50%);
+  top:95%;
+}
